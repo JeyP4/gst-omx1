@@ -1,4 +1,4 @@
-GStreamer OpenMAX IL wrapper plugin
+GStreamer OpenMAX IL wrapper plugin (This is just a copy of GSTOMX source file from nVidia L4T 31.1.0)
 --------------------------
 
  This plugin wraps available OpenMAX IL components and makes
