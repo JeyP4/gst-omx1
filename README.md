@@ -1,3 +1,21 @@
+GStreamer OpenMAX IL wrapper plugin
+--------------------------
+
+ This plugin wraps available OpenMAX IL components and makes
+ them available as standard GStreamer elements.
+
+License:
+--------
+
+  This package and its contents are licensend under the GNU Lesser General
+Public License (LGPL).
+
+Dependencies:
+-------------
+
+ * GStreamer core
+ * gst-plugins-base
+ 
 # gst-omx1
 This package contains the code for libgstomx.so library
 
